@@ -7,7 +7,7 @@ export const personalInfo = {
   officialAccountQr: "https://github.com/RyanY11/picx-images-hosting/raw/master/pics/公众号.3uva5k00r0.webp", // Replace with your actual QR code URL
   resume: "/resume.pdf", // Replace with your actual resume PDF path or URL
   role: "AI产品经理",
-  tagline: "用产品连接真实的人 | 用户 × 心理学 x AI",
+  tagline: "用产品连接真实的人 | 用户 × 心理学 × AI",
   location: "北京·海淀",
   hometown: "云南·昆明",
   bio: "我是一名AI产品经理，热爱做C端产品，喜欢创新和挑战。曾做过很多偏游戏化的、与心理认知测评和训练相关的教育、数字医疗或AI工具产品。曾就职于马上消费金融人工智能研究院下属的AI心理学部，好未来TAL的创新部门脑科学实验室，脑科学领域明星创业公司IBT无疆脑智科技等企业。自我定位是“多面手”和“点子王”，除产品本身外还涉足数据分析、算法和产品运营等。我喜欢理解和探求“人”，关注个体的独立性与特异性。",
