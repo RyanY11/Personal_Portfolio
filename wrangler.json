@@ -1,5 +1,7 @@
 {
   "name": "ryan-portfolio",
   "compatibility_date": "2025-12-01",
-  "main": "src/index.ts"
+  "assets": {
+    "directory": "./dist"
+  }
 }
