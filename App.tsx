@@ -46,7 +46,7 @@ const App: React.FC = () => {
       >
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center">
           <a href="#" className="text-xl font-bold text-slate-900 dark:text-white">
-            Yang<span className="text-primary-500">.Profile</span>
+            Ryan<span className="text-primary-500">.Profile</span>
           </a>
 
           {/* Desktop Nav */}
