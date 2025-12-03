@@ -5,7 +5,7 @@ export const personalInfo = {
   name_eng: "Ryan",
   avatar: "https://i.imgs.ovh/2025/11/28/CqTc5h.png",
   officialAccountQr: "https://github.com/RyanY11/picx-images-hosting/raw/master/pics/公众号.3uva5k00r0.webp", // Replace with your actual QR code URL
-  resume: "/resume.pdf", // Replace with your actual resume PDF path or URL
+  resume: "http://resume.gamifi-studio.top/resume_yangzipeng.pdf", // Replace with your actual resume PDF path or URL
   role: "产品经理",
   tagline: "用产品连接真实的人 | 用户 × 心理学 × AI",
   location: "北京·海淀",
