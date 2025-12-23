@@ -35,6 +35,34 @@ const Footer: React.FC = () => {
         
         <div className="border-t border-slate-200 dark:border-slate-800 pt-8 text-center text-slate-500 text-sm">
           <p>&copy; {new Date().getFullYear()} {personalInfo.name_eng}. All rights reserved.</p>
+
+          <div className="flex flex-col sm:flex-row items-center justify-center gap-2 sm:gap-4 text-xs sm:text-sm">
+             <a 
+                 href="https://beian.miit.gov.cn/" 
+                 target="_blank" 
+                 rel="noreferrer" 
+                 className="hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
+             >
+                 ICP备案号：京ICP备2025155364号-1
+             </a>
+             
+             <span className="hidden sm:inline text-slate-300 dark:text-slate-700">|</span>
+
+             {/* PSB Filing Number */}
+             <a 
+                 href="https://beian.mps.gov.cn/#/query/webSearch?code=11011402055213" 
+                 target="_blank" 
+                 rel="noreferrer" 
+                 className="flex items-center gap-1 hover:text-primary-600 dark:hover:text-primary-400 transition-colors"
+             >
+                 <img 
+                     src="https://i.imgs.ovh/2025/12/23/CIyUHe.png" 
+                     alt="公安备案图标" 
+                     className="w-4 h-4" 
+                 />
+                 <span>京公网安备11011402055213号</span>
+             </a>
+          </div>
         </div>
       </div>
     </footer>
